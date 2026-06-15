@@ -96,7 +96,7 @@ streamlit run app.py
 
 ## Author
 
-Alok Virat
+Alok RAj
 B.Tech (CSE)
 Aspiring Data Analyst / Machine Learning Enthusiast
 # Customer-Segmentation-Dashboard
